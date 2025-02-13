@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://x.com/Oxhaider" target="_blank">
-    <img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg">
   </a>
 </p>
 
@@ -42,8 +42,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arulselvan-65&theme=travelers-theme" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Arulselvan-65&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-  <img src="https://streak-stats.demolab.com?user=Arulselvan-65&theme=radical&hide_border=false">
 </p>
 
 ## 🔥 Most Used Languages:
@@ -59,6 +59,3 @@
 🌍 *Let's connect and build something amazing together!*  
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%">
-</p>
