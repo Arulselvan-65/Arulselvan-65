@@ -26,7 +26,7 @@ I’m a student with deep-rooted passion for Blockchain Technology. I’m curren
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arulselvan-65&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp;
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arulselvan-65&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api?username=Arulselvan-65&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![]([![GitHub Streak](https://streak-stats.demolab.com?user=Arulselvan-65&theme=travelers-theme)]) ![](https://github-readme-stats.vercel.app/api?username=Arulselvan-65&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
 
