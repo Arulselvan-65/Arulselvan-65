@@ -12,9 +12,9 @@
 ---
 
 ## 🌐 Connect with Me:
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/arulselvan-m72/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg">
   </a>
   <a href="https://x.com/Oxhaider" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg">
