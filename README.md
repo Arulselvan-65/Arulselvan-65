@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arulselvan-65&theme=travelers-theme" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Arulselvan-65&theme=travelers-theme" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Arulselvan-65&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 </p>
 
