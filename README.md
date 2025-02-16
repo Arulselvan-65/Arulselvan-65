@@ -53,7 +53,7 @@
 ---
 
 ## 🚀 Fun Fact:
-💡 *"Blockchain is like a new internet revolution, and I’m here to build on it!"*  
+💡 *Blockchain is like a new internet revolution, and I’m here to build on it!*  
 ⚡ *When I’m not coding, I explore new Web3 projects and share my findings!*  
 🌍 *Let's connect and build something amazing together!*  
 
