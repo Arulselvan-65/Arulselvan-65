@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  <strong>Blockchain Enthusiast | DApp Developer | Smart Contracts | Technical Writer</strong>
+  <strong>Blockchain Enthusiast | DApp Developer | Smart Contracts </strong>
 </p>
 
 <p align="center">
