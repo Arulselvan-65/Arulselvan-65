@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Exploring+Web3+and+Decentralized+Finance;Building+Smart+Contracts+on+Ethereum;Transforming+Ideas+into+DApps;Technical+Writing+for+Blockchain;Passionate+about+Decentralization!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Exploring+Web3+and+Decentralized+Finance;Building+Smart+Contracts+on+Ethereum;Transforming+Ideas+into+DApps;Passionate+about+Decentralization!">
 </p>
 
 ---
