@@ -37,6 +37,6 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arulselvan-65&theme=github-dark-blue" alt="GitHub Streak" /></a>
+       <img src="https://nirzak-streak-stats.vercel.app/?user=Arulselvan-65&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
