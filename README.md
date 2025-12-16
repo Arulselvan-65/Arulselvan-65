@@ -36,5 +36,7 @@
 ---
 
 ## 📊 GitHub Stats:
-<img src="https://streak-stats.demolab.com?user=Arulselvan-65&theme=dark" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Arulselvan-65&theme=github-dark-blue" />
+</p>
 
