@@ -36,7 +36,5 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Arulselvan-65&theme=github-dark-dimmed" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Arulselvan-65&theme=dark" alt="GitHub Streak" />
 
