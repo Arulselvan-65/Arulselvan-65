@@ -15,10 +15,12 @@
   <a href="https://www.linkedin.com/in/arulselvan-m72/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/Oxhaider" target="_blank">
-    <img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
+
 
 ---
 
@@ -39,4 +41,3 @@
 <p align="center">
        <img src="https://nirzak-streak-stats.vercel.app/?user=Arulselvan-65&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
-
