@@ -11,16 +11,9 @@
 ---
 
 ## 🌐 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/arulselvan-m72/" target="_blank">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=%230077b5&shape=circle&size=30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/Oxhaider" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-</p>
-
+[![LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=%23ffffff&shape=circle&size=30)](https://www.linkedin.com/in/arulselvan-m72)
+&nbsp;
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Oxhaider)
 
 ---
 
