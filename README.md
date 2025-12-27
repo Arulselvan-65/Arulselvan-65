@@ -31,6 +31,5 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-       <img src="https://nirzak-streak-stats.vercel.app/?user=Arulselvan-65&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Arulselvan-65&theme=github-dark-blue)](https://git.io/streak-stats)
+    
