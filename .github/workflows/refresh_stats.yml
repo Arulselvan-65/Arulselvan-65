@@ -2,7 +2,7 @@ name: Daily Cache Refresh
 
 on:
   schedule:
-    - cron: '* * * * *' 
+    - cron: '*/5 * * * *' 
   workflow_dispatch:   
 
 jobs:
