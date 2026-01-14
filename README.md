@@ -34,5 +34,5 @@
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Arulselvan-65&theme=react&cache_bust=1767987898" width="60%"/>
 <br/><br/>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Arulselvan-65&theme=react&cache_bust=1767987892" alt="Arulselvan github readme activity graph" width="60%"/>    
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Arulselvan-65&theme=react&cache_bust=1767987872" alt="Arulselvan github readme activity graph" width="60%"/>    
 </div>
